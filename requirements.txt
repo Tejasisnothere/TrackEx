@@ -1,0 +1,35 @@
+# Core data science
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+jupyterlab
+
+# Machine learning
+scikit-learn
+torch
+
+# Time-series forecasting
+prophet
+
+# Knowledge graphs
+networkx
+neo4j
+
+# LLMs and AI agents
+langchain
+langchain-core
+langchain-community
+langgraph
+langchain-openai
+
+# API development
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Environment and configuration
+python-dotenv
+pydantic
+httpx

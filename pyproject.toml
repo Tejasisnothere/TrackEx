@@ -1,0 +1,30 @@
+[project]
+name = "trackex"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.143.0",
+    "httpx>=0.28.1",
+    "jupyterlab>=4.6.4",
+    "langchain>=1.4.5",
+    "langchain-community>=0.4.2",
+    "langchain-core>=1.6.10",
+    "langchain-openai>=1.7.1",
+    "langgraph>=1.2.15",
+    "matplotlib>=3.11.2",
+    "neo4j>=6.4.0",
+    "networkx>=3.7",
+    "numpy>=2.5.4",
+    "pandas>=3.0.6",
+    "prophet>=1.5.0",
+    "pydantic>=2.14.1",
+    "python-dotenv>=1.2.4",
+    "python-multipart>=0.0.32",
+    "scikit-learn>=1.9.1",
+    "scipy>=1.18.1",
+    "seaborn>=0.13.2",
+    "torch>=2.14.1",
+    "uvicorn[standard]>=0.54.0",
+]
